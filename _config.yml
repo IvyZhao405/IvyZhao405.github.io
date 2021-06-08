@@ -17,12 +17,12 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "IvyZhao_resume.pdf, title="Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ivyzhao405@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: LinkedIn, icon: LinkedIn In, url: "https://www.linkedin.com/in/xiaochuang-ivy-zhao-a7a35448"}
+  - {title: LinkedIn, icon: LinkedIn, url: "https://www.linkedin.com/in/xiaochuang-ivy-zhao-a7a35448"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
